@@ -1,0 +1,3 @@
+Somnus - Project that is not dead, but is rarely worked on.
+Volatile - Project that can be unexpectedly killed off.
+Soteria - Project that is somewhere in between maintenance-mode and active-development.
